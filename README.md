@@ -1,5 +1,7 @@
 # Go语言高级编程
 
+#### 博客作者：联系请[点击](https://k8sadmin.info/lian-xi-zuo-zhe)，搬运不易，希望请作者喝咖啡，可以点击[联系博客作者](https://k8sadmin.info/lian-xi-zuo-zhe)
+
 本书针对Go语言有一定经验，想深入了解Go语言各种高级用法的开发人员。
 
 ![](.gitbook/assets/cover.png)
